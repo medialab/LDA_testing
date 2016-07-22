@@ -1,0 +1,252 @@
+Macer
+Stupid question, but are these wired into the car so that they automatically start recording when the car starts, or do you have to turn them on and off manually? Or do they record 24/7?
+If wired, is it an easy job to wire them in?
+Normally, these cams come with a charger thru the 12V socket so pretty straight-forward and they start recording as soon as the car starts.
+The more advanced ones have G-force sensors that allow them to auto wake-up when the car "shakes" so quite helpful in Parkenschaden situations.  But, in this case, you need the cam wired to an always "live" source plus a battery cut-off sensor to avoid draining your battery.
+I'm actually in the market for one of these cams.  I know these are easily available off Ebay or Amazon... but I need to see the actual device before buying.  Discreteness is on my top priority so seeing the cam is important for me to judge how it would look like assembled.
+Anybody knows a shop offering these dashcams? I know my local Migros and Fust does not carry these. Thanks.
+Re: Dashcam (Dashboard Camera)
+I seem to recall Aldi either had them last week or had a notice saying they were coming this week.  CHF 40 iirc.
+st2lemans
+No, what it means is that it's only a legal  problem if other people see it, i.e you post it on YouTube, FaceBook,  give it to the police, etc.
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+mirfield
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+Not entirely sure but following the arguments of the guidelines above, with photography the proportionality is somewhat different - one could argue that it is a more discriminate use than a dashcam and one has better control on avoiding people's privacy being breached, that has a specific goal in mind when taking the picture, etc. But most likely some photography styles (e.g. paparazzi-style telephoto shots) can be more problematic than others.
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+It is a bit like the previous law on car headlight use during the day prior to January 2014. Then car headlights "should be used". Some did some didn't...
+AbFab
+It is a bit like the previous law on car headlight use during the day prior to January 2014. Then car headlights "should be used". Some did some didn't...
+"Forbidden" may actually be the wrong term, though I think in practice "to not be used" (the french text: "fortement déconseillée", strongly advised against) amounts to the same. Perhaps the Commissioner, being part of the government as opposed to part of the jurisdiction, is not in a position to use "forbidden" as that may perhaps imply some kind of preemptive verdict.
+For simplicity I'll use "forbidden" here just the same.
+General approach and situation according to the Commissioner:
+"Recht am eigenen Bild", right to ones own picture
+Everybody is entitled to freely define how one's picture may or may not be used. That  means one must either be asked beforehand, or be able to easily realize when one's picture is taken,  be that foto or film, so the filmee can act and forbid. If the latter happens the fotographer/filmer has to obey and destroy the pictures/film showing that person.
+That right is automatically void if the person herself publishes a picture in public space, e.g. the internet or a flyer. The right doesn't exist if overwhelming public interest is the reason for taking the picture (say, of a politician during a speech).
+Dashcams are not easily identified, and of course you can't tell the driver to stop filming, hence they are to not be used. Same goes for surveillance cameras in public space as passersby, provided they notice the camera in the first place, can not easily determine the camera range and angle to avoid being filmed - they require explicit permission by the police. Surveillance cameras in a shop are ok though as the owner has a overriding reason, namely security - I think the customer has still to be informed though, for examply by a sticker on the front door.
+Same logic applies to, say, webcams in a bar: The filmed area must be clearly marked, and customers must be able to easily avoid that area.
+On  ski slopes the people wearing helmets,  scarves, etc. aren't recognizabe. However, since only 90% wear helmets I'd expect cameras on slopes to be illegal in CH, particularly when filming at the station with personnel present.
+Google, when filming for streetview, has to hide all faces, and on request by an interested party, any building.
+Pictures usually are a different story as that usually is easily detected so people can react. Exceptions would be, say, portrait fotografy from afar using a long-distance lense, or whenever the people are more than "side dish" and the picture-taking isn't obvious.
+The Commissioner on taking pictures in the public space (no english verson available).
+Urs Max
+"Forbidden" may actually be the wrong term, though I think in practice "to not be used" (the french text: "fortement déconseillée", strongly advised against) amounts to the same. Perhaps the Commissioner, being part of the government as opposed to part of the jurisdiction, is not in a position to use "forbidden" as that may perhaps imply some kind of preemptive verdict.
+For simplicity I'll use "forbidden" here just the same.
+General approach and situation according to the Commissioner:
+"Recht am eigenen Bild", right to ones own picture
+Everybody is entitled to freely define how one's picture may or may not be used. That  means one must either be asked beforehand, or be able to easily realize when one's picture is taken,  be that foto or film, so the filmee can act and forbid. If the latter happens the fotographer/filmer has to obey and destroy the pictures/film showing that person.
+That right is automatically void if the person herself publishes a picture in public space, e.g. the internet or a flyer. The right doesn't exist if overwhelming public interest is the reason for taking the picture (say, of a politician during a speech).
+Dashcams are not easily identified, and of course you can't tell the driver to stop filming, hence they are to not be used. Same goes for surveillance cameras in public space as passersby, provided they notice the camera in the first place, can not easily determine the camera range and angle to avoid being filmed - they require explicit permission by the police. Surveillance cameras in a shop are ok though as the owner has a overriding reason, namely security - I think the customer has still to be informed though, for examply by a sticker on the front door.
+Same logic applies to, say, webcams in a bar: The filmed area must be clearly marked, and customers must be able to easily avoid that area.
+On ski slopes the people wearing helmets,  scarves, etc. aren't recognizabe. However, since only 90% wear helmets I'd expect cameras on slopes to be illegal in CH, particularly when filming at the station with personnel present.
+Google, when filming for streetview, has to hide all faces, and on request by an interested party, any building.
+Pictures usually are a different story as that usually is easily detected so people can react. Exceptions would be, say, portrait fotografy from afar using a long-distance lense, or whenever the people are more than "side dish" and the picture-taking isn't obvious.
+The Commissioner on taking pictures in the public space (no english verson available).
+People in cars are usually not recognisable in the pictures I have seen from dash cams - of course number plates are traceable but that just tells you the owner name; not the driver.
+I think it's you who has the problem and what's to say the drivers are Swiss. Switzerland has about 24% immigration so what is to say the drivers are Swiss.
+I see you livbe in Auibonne, what's on the back of your car, my guess is VD plates but i haven't a clue what nationality you are from this, from your post it isn't difficult to determine
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Nationality? Guess all you like. Born outside the UK, lived in Australia, HK, UK and France and now Switzerland but a British national by my adoptive parents. Love Switzerland and the folk when they are not behind the wheel. Its just that the swiss drivers that I have experienced directly (in accidents they have admittedly caused) are, from my limited experience here, dire.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+__________________
+“Just give me a comfortable couch, a dog, a good book, and a woman. Then if you can get the dog to go somewhere and read the book, I might have a little fun”  Groucho Marx
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+You live here, therefore you too have Swiss Residency.
+Are you sure....the Police reports do not indicate the nationality of the driver necessarily, unless they are only visiting here
+Wile7
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+I was originally surprised at this but if you think it through it makes sense.  Indicating = leaving roundabout, not indicating = staying on roundabout.  Both options 100% covered, what more is needed?
+baboon
+I was originally surprised at this but if you think it through it makes sense.  Indicating = leaving roundabout, not indicating = staying on roundabout.  Both options 100% covered, what more is needed?
+Problem is that neighboring countries have different rules/conventions on roundabouts. On a recent drive through France and the UK I was reminded how widespread signaling not leaving and leaving is used.
+I always signal left as I join and right as I leave here...
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Nationality? Guess all you like. Born outside the UK, lived in Australia, HK, UK and France and now Switzerland but a British national by my adoptive parents. Love Switzerland and the folk when they are not behind the wheel. Its just that the swiss drivers that I have experienced directly (in accidents they have admittedly caused) are, from my limited experience here, dire.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+Do you mean that new drivers are taught to signal if they are going to "turn left" and exit at the 9 o'clock side or do a U-turn (so turning in front of the traffic coming from the 12 o'clock direction?
+If so, I think it is a great idea. I do it all the time (as a defensive measure). Frankly, it seems a no-brainer to let people know what you are doing so they do not run into you.
+And yes, to confirm, you are only legally required to signal the exit. When you are in the roundabout, you have the priority.
+__________________
+Do or do not, there is no try(ing). Yoda
+Are you sure....the Police reports do not indicate the nationality of the driver necessarily, unless they are only visiting here
+Yes, I have residency. Correct on the reports only on driving licence (item 3 on CH driving licence states place/origin of birth).
+Bizarrely when I had the first accident (that wrote my car off and put me in hospital) the first witness on the scene (behind me) was a US citizen who was not allowed to give evidence as he was not resident here (just visiting). Thankfully there were several others who could.
+I think we will leave it there TO as this could run and run. I will reiterate though that the accidents were not my, or my wife's, fault. Thank you for your thoughts though. I did not realise that there are as many as 24% non swiss about the place.
+__________________
+“Just give me a comfortable couch, a dog, a good book, and a woman. Then if you can get the dog to go somewhere and read the book, I might have a little fun”  Groucho Marx
+Re: Dashcam (Dashboard Camera)
+I've noticed that my local light rail trains are fitted with video cameras at each end. I'm assuming they are recording continuously. From a legal aspect (privacy protection), what is the difference between that and the use of a private dash cam?
+mirfield
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+The laws are the same. You must respect everybody's right to privacy. If someone is recognizeable (not only by her/his face), you need his implict (e.g. the person intentionally takes part in a foto session, she/he must be aware of) or explicit (the person cannot see you taking recordings) consent.
+However, really problematic it becomes when you publish such recordings. But "technically", the production/recording and of course the storage are also violating the same rights! But as some people say, "Keine Kläger, kein Verbrechen". But that's not the law!
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+See above, there is no difference. If you photograph e.g. a "funny" old man (Heidi's grandpa, eventually?
+) sitting on his bench, but he refuses to be photographed (e.g. by shaking his hand), then you are not allowed to photograph him, or you must delete the picture. Otherwise he has the right to file a law suit against you. –
+It is anyhow very bad behavior and against every respect not to ask whether you would be allowed to take a picture of anybody!
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+...
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+In Aubonne there are even more than 36% inhabitants from abroad! In Geneva about 50%!! And most of them drive a car with VD or GE plate!
+Wile7
+Yes, I have residency. Correct on the reports only on driving licence (item 3 on CH driving licence states place/origin of birth).
+.....
+If you like to get charged, just go ahead (no not the possion of dash cams are forbidden, but their unlawful usage). Violations of the right to privacy can be sentenced up to 180 daily rates (monetary penalty), or in case of very strong violations of the right to privacy up to 3 years of prison (custodial sentence). ZGB Art. 28 , StGB Art. 179 and DGS Art. 12-15
+litespeed
+I've noticed that my local light rail trains are fitted with video cameras at each end. I'm assuming they are recording continuously. From a legal aspect (privacy protection), what is the difference between that and the use of a private dash cam?
+First of all, their presence is cleary indicated (check the doors!), secondly see StGB Art. 179octies1 (Official surveillance, exempted acts) states the exception for lawful usage. Thirdly, the recordings are not stored for very long, eventually only for a few hours, and eventually never copied!
+Either you are honest or polite, but you can not be both at the same time, since they are exclusive attitudes.
+Last edited by Sublime; 14.02.2015 at 04:58.
+Bizarrely when I had the first accident (that wrote my car off and put me in hospital) the first witness on the scene (behind me) was a US citizen who was not allowed to give evidence as he was not resident here (just visiting). Thankfully there were several others who could.
+Not that this wasn't allowed, that is total rubbish.
+As you so plainly state there were "several others" all of whom would be far more suitable from a language persepctive and also as a witness.
+A witness can be called to a judicial process, a local resident is far easier to call than a visiting US citizen, but if the US citizen had been the only witness, then he would have been interviewed and recorded
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+« Previous Thread | Next Thread »
+Dashcam (Dashboard Camera)
+I never really thought about a dashcam but after seeing all these Russian videos I think it might be a fun thing to have.  In Russia they say they cost about US$40.
+Anybody have any experience of using these in CH?  Are they even legal here? Any ideas of prices or availability.
+« Previous Thread | Next Thread »
+Macer
+Stupid question, but are these wired into the car so that they automatically start recording when the car starts, or do you have to turn them on and off manually? Or do they record 24/7?
+If wired, is it an easy job to wire them in?
+Normally, these cams come with a charger thru the 12V socket so pretty straight-forward and they start recording as soon as the car starts.
+The more advanced ones have G-force sensors that allow them to auto wake-up when the car "shakes" so quite helpful in Parkenschaden situations.  But, in this case, you need the cam wired to an always "live" source plus a battery cut-off sensor to avoid draining your battery.
+I'm actually in the market for one of these cams.  I know these are easily available off Ebay or Amazon... but I need to see the actual device before buying.  Discreteness is on my top priority so seeing the cam is important for me to judge how it would look like assembled.
+Anybody knows a shop offering these dashcams? I know my local Migros and Fust does not carry these. Thanks.
+Re: Dashcam (Dashboard Camera)
+I seem to recall Aldi either had them last week or had a notice saying they were coming this week.  CHF 40 iirc.
+st2lemans
+No, what it means is that it's only a legal  problem if other people see it, i.e you post it on YouTube, FaceBook,  give it to the police, etc.
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+mirfield
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+Not entirely sure but following the arguments of the guidelines above, with photography the proportionality is somewhat different - one could argue that it is a more discriminate use than a dashcam and one has better control on avoiding people's privacy being breached, that has a specific goal in mind when taking the picture, etc. But most likely some photography styles (e.g. paparazzi-style telephoto shots) can be more problematic than others.
+"For these reasons, dashcams should not be used in public places. "
+Do mind though that the wording is less strong than in the german version where it's phrased as an order (to not be used).
+http://www.edoeb.admin.ch/datenschut...x.html?lang=en
+It is a bit like the previous law on car headlight use during the day prior to January 2014. Then car headlights "should be used". Some did some didn't...
+AbFab
+It is a bit like the previous law on car headlight use during the day prior to January 2014. Then car headlights "should be used". Some did some didn't...
+"Forbidden" may actually be the wrong term, though I think in practice "to not be used" (the french text: "fortement déconseillée", strongly advised against) amounts to the same. Perhaps the Commissioner, being part of the government as opposed to part of the jurisdiction, is not in a position to use "forbidden" as that may perhaps imply some kind of preemptive verdict.
+For simplicity I'll use "forbidden" here just the same.
+General approach and situation according to the Commissioner:
+"Recht am eigenen Bild", right to ones own picture
+Everybody is entitled to freely define how one's picture may or may not be used. That  means one must either be asked beforehand, or be able to easily realize when one's picture is taken,  be that foto or film, so the filmee can act and forbid. If the latter happens the fotographer/filmer has to obey and destroy the pictures/film showing that person.
+That right is automatically void if the person herself publishes a picture in public space, e.g. the internet or a flyer. The right doesn't exist if overwhelming public interest is the reason for taking the picture (say, of a politician during a speech).
+Dashcams are not easily identified, and of course you can't tell the driver to stop filming, hence they are to not be used. Same goes for surveillance cameras in public space as passersby, provided they notice the camera in the first place, can not easily determine the camera range and angle to avoid being filmed - they require explicit permission by the police. Surveillance cameras in a shop are ok though as the owner has a overriding reason, namely security - I think the customer has still to be informed though, for examply by a sticker on the front door.
+Same logic applies to, say, webcams in a bar: The filmed area must be clearly marked, and customers must be able to easily avoid that area.
+On  ski slopes the people wearing helmets,  scarves, etc. aren't recognizabe. However, since only 90% wear helmets I'd expect cameras on slopes to be illegal in CH, particularly when filming at the station with personnel present.
+Google, when filming for streetview, has to hide all faces, and on request by an interested party, any building.
+Pictures usually are a different story as that usually is easily detected so people can react. Exceptions would be, say, portrait fotografy from afar using a long-distance lense, or whenever the people are more than "side dish" and the picture-taking isn't obvious.
+The Commissioner on taking pictures in the public space (no english verson available).
+Urs Max
+"Forbidden" may actually be the wrong term, though I think in practice "to not be used" (the french text: "fortement déconseillée", strongly advised against) amounts to the same. Perhaps the Commissioner, being part of the government as opposed to part of the jurisdiction, is not in a position to use "forbidden" as that may perhaps imply some kind of preemptive verdict.
+For simplicity I'll use "forbidden" here just the same.
+General approach and situation according to the Commissioner:
+"Recht am eigenen Bild", right to ones own picture
+Everybody is entitled to freely define how one's picture may or may not be used. That  means one must either be asked beforehand, or be able to easily realize when one's picture is taken,  be that foto or film, so the filmee can act and forbid. If the latter happens the fotographer/filmer has to obey and destroy the pictures/film showing that person.
+That right is automatically void if the person herself publishes a picture in public space, e.g. the internet or a flyer. The right doesn't exist if overwhelming public interest is the reason for taking the picture (say, of a politician during a speech).
+Dashcams are not easily identified, and of course you can't tell the driver to stop filming, hence they are to not be used. Same goes for surveillance cameras in public space as passersby, provided they notice the camera in the first place, can not easily determine the camera range and angle to avoid being filmed - they require explicit permission by the police. Surveillance cameras in a shop are ok though as the owner has a overriding reason, namely security - I think the customer has still to be informed though, for examply by a sticker on the front door.
+Same logic applies to, say, webcams in a bar: The filmed area must be clearly marked, and customers must be able to easily avoid that area.
+On  ski slopes the people wearing helmets,  scarves, etc. aren't recognizabe. However, since only 90% wear helmets I'd expect cameras on slopes to be illegal in CH, particularly when filming at the station with personnel present.
+Google, when filming for streetview, has to hide all faces, and on request by an interested party, any building.
+Pictures usually are a different story as that usually is easily detected so people can react. Exceptions would be, say, portrait fotografy from afar using a long-distance lense, or whenever the people are more than "side dish" and the picture-taking isn't obvious.
+The Commissioner on taking pictures in the public space (no english verson available).
+People in cars are usually not recognisable in the pictures I have seen from dash cams - of course number plates are traceable but that just tells you the owner name; not the driver.
+I think it's you who has the problem and what's to say the drivers are Swiss. Switzerland has about 24% immigration so what is to say the drivers are Swiss.
+I see you livbe in Auibonne, what's on the back of your car, my guess is VD plates but i haven't a clue what nationality you are from this, from your post it isn't difficult to determine
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Nationality? Guess all you like. Born outside the UK, lived in Australia, HK, UK and France and now Switzerland but a British national by my adoptive parents. Love Switzerland and the folk when they are not behind the wheel. Its just that the swiss drivers that I have experienced directly (in accidents they have admittedly caused) are, from my limited experience here, dire.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+__________________
+“Just give me a comfortable couch, a dog, a good book, and a woman. Then if you can get the dog to go somewhere and read the book, I might have a little fun”  Groucho Marx
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+You live here, therefore you too have Swiss Residency.
+Are you sure....the Police reports do not indicate the nationality of the driver necessarily, unless they are only visiting here
+Wile7
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+I was originally surprised at this but if you think it through it makes sense.  Indicating = leaving roundabout, not indicating = staying on roundabout.  Both options 100% covered, what more is needed?
+baboon
+I was originally surprised at this but if you think it through it makes sense.  Indicating = leaving roundabout, not indicating = staying on roundabout.  Both options 100% covered, what more is needed?
+Problem is that neighboring countries have different rules/conventions on roundabouts. On a recent drive through France and the UK I was reminded how widespread signaling not leaving and leaving is used.
+I always signal left as I join and right as I leave here...
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+Nationality? Guess all you like. Born outside the UK, lived in Australia, HK, UK and France and now Switzerland but a British national by my adoptive parents. Love Switzerland and the folk when they are not behind the wheel. Its just that the swiss drivers that I have experienced directly (in accidents they have admittedly caused) are, from my limited experience here, dire.
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+PS Astounded but thankful for a previous post explaining that the indication on roundabouts is NOT required unless exiting the junction. Must be changing as my eldest daughter is taking lessons and she is being encouraged to indicate upon entry. Still not a 'law' though - fair enough.
+Do you mean that new drivers are taught to signal if they are going to "turn left" and exit at the 9 o'clock side or do a U-turn (so turning in front of the traffic coming from the 12 o'clock direction?
+If so, I think it is a great idea. I do it all the time (as a defensive measure). Frankly, it seems a no-brainer to let people know what you are doing so they do not run into you.
+And yes, to confirm, you are only legally required to signal the exit. When you are in the roundabout, you have the priority.
+__________________
+Do or do not, there is no try(ing). Yoda
+Are you sure....the Police reports do not indicate the nationality of the driver necessarily, unless they are only visiting here
+Yes, I have residency. Correct on the reports only on driving licence (item 3 on CH driving licence states place/origin of birth).
+Bizarrely when I had the first accident (that wrote my car off and put me in hospital) the first witness on the scene (behind me) was a US citizen who was not allowed to give evidence as he was not resident here (just visiting). Thankfully there were several others who could.
+I think we will leave it there TO as this could run and run. I will reiterate though that the accidents were not my, or my wife's, fault. Thank you for your thoughts though. I did not realise that there are as many as 24% non swiss about the place.
+__________________
+“Just give me a comfortable couch, a dog, a good book, and a woman. Then if you can get the dog to go somewhere and read the book, I might have a little fun”  Groucho Marx
+Re: Dashcam (Dashboard Camera)
+I've noticed that my local light rail trains are fitted with video cameras at each end. I'm assuming they are recording continuously. From a legal aspect (privacy protection), what is the difference between that and the use of a private dash cam?
+mirfield
+Interesting.  I wonder what the law is on all those Go-Pro type cams on the ski slopes.  It's a similar situation.
+The laws are the same. You must respect everybody's right to privacy. If someone is recognizeable (not only by her/his face), you need his implict (e.g. the person intentionally takes part in a foto session, she/he must be aware of) or explicit (the person cannot see you taking recordings) consent.
+However, really problematic it becomes when you publish such recordings. But "technically", the production/recording and of course the storage are also violating the same rights! But as some people say, "Keine Kläger, kein Verbrechen". But that's not the law!
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+See above, there is no difference. If you photograph e.g. a "funny" old man (Heidi's grandpa, eventually?
+) sitting on his bench, but he refuses to be photographed (e.g. by shaking his hand), then you are not allowed to photograph him, or you must delete the picture. Otherwise he has the right to file a law suit against you. –
+It is anyhow very bad behavior and against every respect not to ask whether you would be allowed to take a picture of anybody!
+Wile7
+Well, all three police reports and the exchange of details certainly indicated that the third parties had Swiss residency. And all three admitted liability without argument. The first incident (hit me broadside at over 80kmh without stopping at a junction) sent me rolling UP into some vines and that was my first ever accident. The other one hit me from behind on the motorway and my wife ws hit from behind when attempting to overtake her but misjudged it.
+...
+Hope that helps. I can't answer for the 24% non-swiss as one of those has not hit me yet. I'll update if that happens but I really do not want to experience any more ...
+In Aubonne there are even more than 36% inhabitants from abroad! In Geneva about 50%!! And most of them drive a car with VD or GE plate!
+Wile7
+Yes, I have residency. Correct on the reports only on driving licence (item 3 on CH driving licence states place/origin of birth).
+.....
+If you like to get charged, just go ahead (no not the possion of dash cams are forbidden, but their unlawful usage). Violations of the right to privacy can be sentenced up to 180 daily rates (monetary penalty), or in case of very strong violations of the right to privacy up to 3 years of prison (custodial sentence). ZGB Art. 28 , StGB Art. 179 and DGS Art. 12-15
+litespeed
+I've noticed that my local light rail trains are fitted with video cameras at each end. I'm assuming they are recording continuously. From a legal aspect (privacy protection), what is the difference between that and the use of a private dash cam?
+First of all, their presence is cleary indicated (check the doors!), secondly see StGB Art. 179octies1 (Official surveillance, exempted acts) states the exception for lawful usage. Thirdly, the recordings are not stored for very long, eventually only for a few hours, and eventually never copied!
+Either you are honest or polite, but you can not be both at the same time, since they are exclusive attitudes.
+Last edited by Sublime; 14.02.2015 at 04:58.
+Bizarrely when I had the first accident (that wrote my car off and put me in hospital) the first witness on the scene (behind me) was a US citizen who was not allowed to give evidence as he was not resident here (just visiting). Thankfully there were several others who could.
+Not that this wasn't allowed, that is total rubbish.
+As you so plainly state there were "several others" all of whom would be far more suitable from a language persepctive and also as a witness.
+A witness can be called to a judicial process, a local resident is far easier to call than a visiting US citizen, but if the US citizen had been the only witness, then he would have been interviewed and recorded
+murphy70
+And what about photography? I am a street photographer, and I take pictures of people all the time. Any link about this? What are my rights and the passerby rights about the pictures?
+« Previous Thread | Next Thread »
