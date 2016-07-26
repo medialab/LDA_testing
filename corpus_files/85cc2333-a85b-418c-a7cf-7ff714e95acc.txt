@@ -1,0 +1,137 @@
+Mar 17, 2015 | Carolyn Cohn
+The legacy of firms swallowed up by bigger insurers makes it hard to streamline tech, writes Carolyn Cohn
+AS THE financial sector is racing to embrace digital technology to boost sales and drive profits, the traditionally staid insurance industry is in danger of falling behind.
+Some insurers are using developments such as telematics, or social media sources, to increase the amount of information they have about customers to reduce claims and theoretically make insurance cheaper for all.
+Telematics uses aircraft-style "black boxes" extracted from Formula One racing cars for years to collect data about how policyholders drive, so they can be rewarded with lower insurance premiums if they adopt a cautious style. But an industry that has long relied on personal contacts, the Lloyd’s of London insurance market that was started in a coffee house in the 17th century, has not been quick to embrace new technology or mine vast new data sets, known as "big data".
+The reluctance to roll out technology with the same enthusiasm as banks and some investment managers is partly cultural, partly financial.
+"Compared to many other industries, (insurers) are still playing catch-up. The sector has a very traditional culture," says Catherine Barton, a partner at EY.
+Staff at Lloyd’s, home to more than 90 trading syndicates in London’s financial district, still trundle suitcases of claim forms for complex insurance transactions. Function rooms in its flagship building are furnished with antiques, while besuited underwriters swap ideas in local pubs and restaurants when the market is out on lunch.
+Lloyd’s CE Inga Beale says the industry needs to take technology on board to maintain its role in global business. The firm recently appointed a chief data officer and Ms Beale says the sector needs to attract new, tech-savvy talent.
+...
+Insurers already carry plenty of data about policyholders, and have started mining sources such as Facebook, to cut fraud or better estimate customers’ claims. But a mass of different systems, often the legacy of firms being swallowed up by bigger insurers, makes it hard to streamline technology. Some firms have chosen the status quo.
+"I have a very jaundiced view of the generation behind me, they are too reliant on technology," a broker says. "I don’t believe this (face-to-face approach) will disappear."
+Even if firms want to harness technology, they may be unwilling to commit cash. Insurers are struggling to balance their books, with bond yields at record lows and slashing the returns they make on investing premiums.
+A report from Morgan Stanley and Boston Consulting Group says the first movers will reap bigger spoils.
+They say a full transformation to becoming a digital company could cut an insurer’s combined ratio by 21 percentage points, in other words making the firm more profitable. Expenses could fall by 10% of premiums and claims by 8%.
+Germany’s Allianz is highlighted in the report as a good example of a traditional insurer working to enhance its digital capabilities and transform its business model.
+It is investing €400m-€500m a year in digital initiatives such as setting up an innovation lab to work with young companies on Big Data, mobile, social media and sponsorship, the report says. Others are focusing on telematics, one of the industry’s brightest innovations. Britain’s RSA has a telematics product and underwrites business for specialist telematics insurer Ingenie. Direct Line also does telematics.
+Belgian insurer Ageas, which has a British division and writes insurance for firms such as Tesco Bank, also underwrites Ingenie’s telematics car insurance, while Progressive is a frontrunner in the US.
+...
+Still, the benefits sometimes seem unclear and the use of telematics remains low. Britain, Italy and the US are among the most developed markets, but penetration is 3.5% in Italy, 2.5% in Britain and just 1% worldwide.
+The black boxes are expensive for the insurer to fit into cars, only making it worthwhile for young or inexperienced drivers, whose policies are more expensive.
+Some insurers are waiting for the cost of the boxes to fall, or for alternatives such as mobile phone apps or internet-connected cars. British insurer Aviva was one of the first to introduce telematics. Policyholders had 30% fewer accidents and premiums fell by the same amount.
+Aviva has since pulled out because it was costing too much to buy and install the boxes, but it now offers discounts to drivers using mobile apps to monitor their driving habits.
+The technology has also not yet arrived for telematics to be used in markets beyond motor insurance.
+New uses for telematics could include an oven that tells your house insurer it has been left on, or a smartwatch that tells your health insurer if your blood pressure is too high.
+"In the next few years, we’ll see a lot of change in (the way) technology will impact pricing," says Rudi van Delm, director for pricing and underwriting at Direct Line. But until that technology becomes more cost-effective, insurers focused on retail consumers may invest more in their online presence and use of price comparison sites.
+x
+In Depth
+Budget 2016 Growth Engines Brics Nelson Mandela 1918-2013 Understand your country. Or lose it Election 2014 Dialogue: Renewable energy Peter Bruce Interviews Accenture Innovation Index Awards
+Failure to arrest Bashir ‘was unlawful’
+In terms of the dismissal of the government’s appeal by the Supreme Court of Appeal, the government’s failure to arrest Sudanese President Omar al-Bashir was unlawful
+Cameron Morajane appointed CCMA head
+Failure to arrest Bashir ‘was unlawful’
+In terms of the dismissal of the government’s appeal by the Supreme Court of Appeal, the government’s failure to arrest Sudanese President Omar al-Bashir was unlawful
+Angola’s crude output tied up to pay for big loans
+Venezuela’s Maduro expands powers of his socialist government
+SA’s ignorance of Africa does everyone a disservice
+Rand retreats ahead of Fed announcement
+SA must earn back trust, says Gordhan
+Investors with billions in exposure to SA want fiscal stability, while ratings agency Moody’s arrives this week for a review after putting South Africa on notice for a downgrade
+Rand weakens on downgrade fears
+NNR has received two applications to build reactors from Eskom
+Six tips for getting the most out of reference checks
+FirstRand bank to close some FNB units and retrench staff
+Almost 600 positions will be lost at FNB, but more than 500 people at the company may be able to apply for other roles
+IEC struggles to address problem of verification
+State fails in basic obligation to verify where voters live yet passes laws demanding proof of address, writes Penelope Mashego
+Travel & Food
+Health
+Fifa and Safa are just looking for ‘scapegoat’
+Indian fans believe Dhoni’s boys will deliver T20 glory
+Back to the future as Morris and Duminy click into gear
+Insurance market still slow on adopting ‘big data’
+AS THE financial sector is racing to embrace digital technology to boost sales and drive profits, the traditionally staid insurance industry is in danger of falling behind.
+Some insurers are using developments such as telematics, or social media sources, to increase the amount of information they have about customers to reduce claims and theoretically make insurance cheaper for all.
+Telematics uses aircraft-style "black boxes" extracted from Formula One racing cars for years to collect data about how policyholders drive, so they can be rewarded with lower insurance premiums if they adopt a cautious style. But an industry that has long relied on personal contacts, the Lloyd’s of London insurance market that was started in a coffee house in the 17th century, has not been quick to embrace new technology or mine vast new data sets, known as "big data".
+The reluctance to roll out technology with the same enthusiasm as banks and some investment managers is partly cultural, partly financial.
+"Compared to many other industries, (insurers) are still playing catch-up. The sector has a very traditional culture," says Catherine Barton, a partner at EY.
+Staff at Lloyd’s, home to more than 90 trading syndicates in London’s financial district, still trundle suitcases of claim forms for complex insurance transactions. Function rooms in its flagship building are furnished with antiques, while besuited underwriters swap ideas in local pubs and restaurants when the market is out on lunch.
+Lloyd’s CE Inga Beale says the industry needs to take technology on board to maintain its role in global business. The firm recently appointed a chief data officer and Ms Beale says the sector needs to attract new, tech-savvy talent.
+...
+Insurers already carry plenty of data about policyholders, and have started mining sources such as Facebook, to cut fraud or better estimate customers’ claims. But a mass of different systems, often the legacy of firms being swallowed up by bigger insurers, makes it hard to streamline technology. Some firms have chosen the status quo.
+"I have a very jaundiced view of the generation behind me, they are too reliant on technology," a broker says. "I don’t believe this (face-to-face approach) will disappear."
+Even if firms want to harness technology, they may be unwilling to commit cash. Insurers are struggling to balance their books, with bond yields at record lows and slashing the returns they make on investing premiums.
+A report from Morgan Stanley and Boston Consulting Group says the first movers will reap bigger spoils.
+They say a full transformation to becoming a digital company could cut an insurer’s combined ratio by 21 percentage points, in other words making the firm more profitable. Expenses could fall by 10% of premiums and claims by 8%.
+Germany’s Allianz is highlighted in the report as a good example of a traditional insurer working to enhance its digital capabilities and transform its business model.
+It is investing €400m-€500m a year in digital initiatives such as setting up an innovation lab to work with young companies on Big Data, mobile, social media and sponsorship, the report says. Others are focusing on telematics, one of the industry’s brightest innovations. Britain’s RSA has a telematics product and underwrites business for specialist telematics insurer Ingenie. Direct Line also does telematics.
+Belgian insurer Ageas, which has a British division and writes insurance for firms such as Tesco Bank, also underwrites Ingenie’s telematics car insurance, while Progressive is a frontrunner in the US.
+...
+Still, the benefits sometimes seem unclear and the use of telematics remains low. Britain, Italy and the US are among the most developed markets, but penetration is 3.5% in Italy, 2.5% in Britain and just 1% worldwide.
+The black boxes are expensive for the insurer to fit into cars, only making it worthwhile for young or inexperienced drivers, whose policies are more expensive.
+Some insurers are waiting for the cost of the boxes to fall, or for alternatives such as mobile phone apps or internet-connected cars. British insurer Aviva was one of the first to introduce telematics. Policyholders had 30% fewer accidents and premiums fell by the same amount.
+Aviva has since pulled out because it was costing too much to buy and install the boxes, but it now offers discounts to drivers using mobile apps to monitor their driving habits.
+The technology has also not yet arrived for telematics to be used in markets beyond motor insurance.
+New uses for telematics could include an oven that tells your house insurer it has been left on, or a smartwatch that tells your health insurer if your blood pressure is too high.
+"In the next few years, we’ll see a lot of change in (the way) technology will impact pricing," says Rudi van Delm, director for pricing and underwriting at Direct Line. But until that technology becomes more cost-effective, insurers focused on retail consumers may invest more in their online presence and use of price comparison sites.
+How to avoid digital strategy mistakes
+Turning digital storage into a multitasking set of options
+AS THE financial sector is racing to embrace digital technology to boost sales and drive profits, the traditionally staid insurance industry is in danger of falling behind.
+Some insurers are using developments such as telematics, or social media sources, to increase the amount of information they have about customers to reduce claims and theoretically make insurance cheaper for all.
+Telematics uses aircraft-style "black boxes" extracted from Formula One racing cars for years to collect data about how policyholders drive, so they can be rewarded with lower insurance premiums if they adopt a cautious style. But an industry that has long relied on personal contacts, the Lloyd’s of London insurance market that was started in a coffee house in the 17th century, has not been quick to embrace new technology or mine vast new data sets, known as "big data".
+The reluctance to roll out technology with the same enthusiasm as banks and some investment managers is partly cultural, partly financial.
+"Compared to many other industries, (insurers) are still playing catch-up. The sector has a very traditional culture," says Catherine Barton, a partner at EY.
+Staff at Lloyd’s, home to more than 90 trading syndicates in London’s financial district, still trundle suitcases of claim forms for complex insurance transactions. Function rooms in its flagship building are furnished with antiques, while besuited underwriters swap ideas in local pubs and restaurants when the market is out on lunch.
+Lloyd’s CE Inga Beale says the industry needs to take technology on board to maintain its role in global business. The firm recently appointed a chief data officer and Ms Beale says the sector needs to attract new, tech-savvy talent.
+...
+Insurers already carry plenty of data about policyholders, and have started mining sources such as Facebook, to cut fraud or better estimate customers’ claims. But a mass of different systems, often the legacy of firms being swallowed up by bigger insurers, makes it hard to streamline technology. Some firms have chosen the status quo.
+"I have a very jaundiced view of the generation behind me, they are too reliant on technology," a broker says. "I don’t believe this (face-to-face approach) will disappear."
+Even if firms want to harness technology, they may be unwilling to commit cash. Insurers are struggling to balance their books, with bond yields at record lows and slashing the returns they make on investing premiums.
+A report from Morgan Stanley and Boston Consulting Group says the first movers will reap bigger spoils.
+They say a full transformation to becoming a digital company could cut an insurer’s combined ratio by 21 percentage points, in other words making the firm more profitable. Expenses could fall by 10% of premiums and claims by 8%.
+Germany’s Allianz is highlighted in the report as a good example of a traditional insurer working to enhance its digital capabilities and transform its business model.
+It is investing €400m-€500m a year in digital initiatives such as setting up an innovation lab to work with young companies on Big Data, mobile, social media and sponsorship, the report says. Others are focusing on telematics, one of the industry’s brightest innovations. Britain’s RSA has a telematics product and underwrites business for specialist telematics insurer Ingenie. Direct Line also does telematics.
+Belgian insurer Ageas, which has a British division and writes insurance for firms such as Tesco Bank, also underwrites Ingenie’s telematics car insurance, while Progressive is a frontrunner in the US.
+...
+Still, the benefits sometimes seem unclear and the use of telematics remains low. Britain, Italy and the US are among the most developed markets, but penetration is 3.5% in Italy, 2.5% in Britain and just 1% worldwide.
+The black boxes are expensive for the insurer to fit into cars, only making it worthwhile for young or inexperienced drivers, whose policies are more expensive.
+Some insurers are waiting for the cost of the boxes to fall, or for alternatives such as mobile phone apps or internet-connected cars. British insurer Aviva was one of the first to introduce telematics. Policyholders had 30% fewer accidents and premiums fell by the same amount.
+Aviva has since pulled out because it was costing too much to buy and install the boxes, but it now offers discounts to drivers using mobile apps to monitor their driving habits.
+The technology has also not yet arrived for telematics to be used in markets beyond motor insurance.
+New uses for telematics could include an oven that tells your house insurer it has been left on, or a smartwatch that tells your health insurer if your blood pressure is too high.
+"In the next few years, we’ll see a lot of change in (the way) technology will impact pricing," says Rudi van Delm, director for pricing and underwriting at Direct Line. But until that technology becomes more cost-effective, insurers focused on retail consumers may invest more in their online presence and use of price comparison sites.
+Rumour shades Zuma’s intimates
+THICK END OF THE WEDGE: How to buy a mine for next to nothing
+Rumour shades Zuma’s intimates
+THICK END OF THE WEDGE: How to buy a mine for next to nothing
+Google+
+Times Media (Pty) Ltd disclaims all liability for any loss, damage, injury or expense however caused, arising from the use of or reliance upon, in any manner, the information provided through this service and does not warrant the truth, accuracy or completeness of the information provided.
+x
+In Depth
+Budget 2016 Growth Engines Brics Nelson Mandela 1918-2013 Understand your country. Or lose it Election 2014 Dialogue: Renewable energy Peter Bruce Interviews Accenture Innovation Index Awards
+Failure to arrest Bashir ‘was unlawful’
+In terms of the dismissal of the government’s appeal by the Supreme Court of Appeal, the government’s failure to arrest Sudanese President Omar al-Bashir was unlawful
+Cameron Morajane appointed CCMA head
+Failure to arrest Bashir ‘was unlawful’
+In terms of the dismissal of the government’s appeal by the Supreme Court of Appeal, the government’s failure to arrest Sudanese President Omar al-Bashir was unlawful
+Angola’s crude output tied up to pay for big loans
+Venezuela’s Maduro expands powers of his socialist government
+SA’s ignorance of Africa does everyone a disservice
+Rand retreats ahead of Fed announcement
+SA must earn back trust, says Gordhan
+Investors with billions in exposure to SA want fiscal stability, while ratings agency Moody’s arrives this week for a review after putting South Africa on notice for a downgrade
+Rand weakens on downgrade fears
+NNR has received two applications to build reactors from Eskom
+Six tips for getting the most out of reference checks
+FirstRand bank to close some FNB units and retrench staff
+Almost 600 positions will be lost at FNB, but more than 500 people at the company may be able to apply for other roles
+IEC struggles to address problem of verification
+State fails in basic obligation to verify where voters live yet passes laws demanding proof of address, writes Penelope Mashego
+Travel & Food
+Health
+Fifa and Safa are just looking for ‘scapegoat’
+Indian fans believe Dhoni’s boys will deliver T20 glory
+Back to the future as Morris and Duminy click into gear
+Google+
+Times Media (Pty) Ltd disclaims all liability for any loss, damage, injury or expense however caused, arising from the use of or reliance upon, in any manner, the information provided through this service and does not warrant the truth, accuracy or completeness of the information provided.

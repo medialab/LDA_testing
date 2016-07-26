@@ -1,0 +1,16 @@
+Internet privacy protection is a grave concern with more and more of our interactions taking place on the Internet. Every time you search the web, or browse a web site with tracking capability, information about you is generated and stored in giant databases. This is probably the largest ever collection  of data on individuals.
+This data is largely used to direct targeted ads to you. However, in the wrong hands, this data can be potentially very damaging. Think about it - do you want someone to know EVERYTHING about you? Yet this is exactly what is happening without your knowledge.
+Collected data can slip out in many ways - a disgruntled employee, lost laptop, hacker attack or accidental disclosure. For example, in August 2006 AOL accidentally released search records for 650,000 of its users.
+Internet privacy protection methods?
+Use an anonymizing service. If you are paranoid use an anonymizing service located offshore outside of your courty system's jurisdictions.
+Disable scripts that run on the browser. Use the NoScript plugin with Firefox to selectively enable plugins that you need.
+Use Adblocker if you are using Firefox. If you are using another broswer use Ad Muncher .
+Use a search engine that does not keep IP records.
+Other privacy protection steps
+Do not buy merchandise online where your identity and purchase are recorded.
+Do not apply for discount cards at big chain stores.
+Bottom line
+It takes work and is inconvenient to protect your Internet privacy.
+Even if take all precautions with your computer and browsing habits, you can give the data about yourself to your friends, who will put it on their contact list and sync it up with online contact storage.
+In the end you have to ask yourself
+Is it worth the work to keep my data private?

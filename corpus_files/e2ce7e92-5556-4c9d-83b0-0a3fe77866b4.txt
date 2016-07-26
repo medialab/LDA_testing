@@ -1,0 +1,70 @@
+Google is dedicated to helping you discover the world around you. Imagery on our           platforms is intended to enhance your experience, helping you preview and explore places           nearby or across the globe. We go to great lengths to make sure that imagery is useful,           and to protect the privacy of people captured in photographs.
+To help ensure that everyone viewing Google Maps imagery has a positive, beneficial           experience, we've developed these Google Maps Image Acceptance and Privacy Policies. The           policies explain important differences between how we address imagery captured by Google           and members of the public, how we treat inappropriate content, and the necessary criteria           for publishing imagery to Google Maps. Please check back from time to time, as we may           occasionally update our policies.
+Show moreShow less
+You can tell whether an image was taken by Google or by an external contributor               by the attribution name or icon presented with each image.
+Imagery that was captured by an external contributor and posted to Google Maps is               the property of that contributor, unless they have agreed to transfer ownership to a               third party.
+While our content policies apply to both types of content in equal measure, the               difference in ownership does mean that our policies and enforcement mechanisms for               privacy requests, blurring, and image removal may be slightly different. Please read               the Privacy and Reporting Issues sections below for more information.
+Show moreShow less
+Any imagery you contribute to Google Maps must follow these policies as well as               the Google Terms of Service , the Google Maps/Earth Additional Terms of               Service , and any relevant local laws and regulations. Please also be mindful of               the Google Privacy Policy .
+We reserve the right to remove content that violates our policies or terms of               service, and to suspend or delete abusive accounts.
+Where Your Images May Appear
+All content that is published to Google Maps is public, including the location where               the photo was taken. If your image is accepted to Google Maps it will be publicly               visible to anyone who accesses our mapping products.
+Show moreShow less
+If you do not want to share your image or the location in which it was taken,               please do not publish it using this service.
+Images that you submit for publication to Google Maps must satisfy our specified Publishing Acceptance Criteria and General Content Policies . Once published,               your content may appear in a variety of Google products and services, including               Google Maps, Street View, Google Earth, Google Search, and other Google products.
+Published content may also appear within third–party sites that use Google               embeddable widgets or the Google Maps API. For more information about how your images               may be used by Google or third parties, see the Google Maps/Earth Additional Terms               of Service .
+Privacy
+Google takes a number of steps to protect the privacy of individuals when images are               published to Google Maps. Read on for information on how we handle privacy requests               submitted on Google-contributed content and user-contributed content.
+Google-Contributed Content
+You can tell if an image was captured by Google by the “Google Maps” or "Street View"               attribution icon or name associated with it.
+Show moreShow less
+Blurring policies: We have developed cutting-edge face and license                 plate blurring technology that is applied to all of Google's Street View images. If                 one of our images contains an identifiable face or identifiable license plate, our                 technology will automatically blur it out. We will also blur your entire house,                 car, portions thereof if you submit a request to us for blurring. Please note,                 however, that once Google blurs an image the effect is permanent. If you submit a                 request to have your personal home blurred from Google Street View imagery, all                 historical and future images of your home will also be blurred.
+Street View images are not real time: Our images show only what                 our vehicles were able to see on the day that they drove past the location.                 Afterward, it takes months to process them. This means that content you see could                 be anywhere from a few months to a few years old. We also enable you to view images                 of a particular location over different time periods.
+User-Contributed Content
+You can tell if an image was captured by a member of the public by the personal               profile name or icon associated with it.
+Show moreShow less
+We don't blur user-generated images: Members of the public                 regularly contribute images of both exterior and interior locations to Google Maps.                 This content is collected and owned by these individual contributors. Because                 Google does not own user-contributed content, we do not apply our blurring policies                 to this imagery.
+Private property: You should not publish imagery from personal                 residences. Imagery from other private locations should not be published without                 the owner’s consent.
+Photographers, please respect individual privacy when taking                 photos: If a clearly identifiable person in your photo does not want to                 have their image published, respect their preferences or proactively blur the faces                 in your imagery prior to publishing.
+Inappropriate Content
+These policies apply equally to Google-contributed and user-contributed content.               Please note that when we evaluate imagery for policy violations we also balance the               artistic, educational, or documentary value of the content.
+Show moreShow less
+Intellectual Property Violations: We don’t allow images or any                 other content that infringes on anyone else’s legal rights, including copyright.                 For more information or to file a DMCA request, review our copyright procedures .
+Spam: Images that have been uploaded repetitively, are excessively                 promotional, or that contain text superimposed over a large section of the image                 will be removed. As with our other content policies, the limitation applies to                 images as well as captions, titles, and user comments.
+Sexually explicit content: We don't allow content that contains                 sexually explicit subject matter.
+Illegal, dangerous, or violent content: We don't allow content                 that is unlawful in nature, promotes dangerous or illegal acts, or contains graphic                 or gratuitous violence.
+Child endangerment: Google has a zero-tolerance policy against                 content that exploits or abuses children. This includes all sexual abuse imagery                 and all content that presents children in a sexual manner. When we encounter                 content that appears to exploit children, we will terminate the relevant user’s                 account and report the user to the appropriate authorities. If you find any content                 that you think exploits children in this manner, please do not re–share or comment                 on it, even if your intent is to bring the content to Google’s attention. Instead,                 flag it through the image’s ‘Report a Problem’ link on Google Maps. If you find                 content elsewhere on the internet, please contact the National Center for Missing                 and Exploited Children (NCMEC) directly.
+Hate speech: We don't allow content that promotes or condones                 violence against individuals or groups based on race or ethnic origin, religion,                 disability, gender, age, nationality, veteran status, or sexual orientation/gender                 identity, or whose primary purpose is inciting hatred on the basis of these core                 characteristics.
+Harassment and threats: We don't allow individuals to use Google                 Maps to harass, bully, or attack other individuals.
+Personal or confidential information: We don’t allow content that                 contains private or confidential information such as credit card details or                 government–issued identification — whether yours or someone else’s.
+Misrepresentation
+We don't allow individuals to use Google Maps to mislead others. This applies to               deceptive content as well as false representations.
+Show moreShow less
+Google reserves the right to remove imagery, suspend accounts, or pursue other               legal action against photographers who falsely claim that they represent or are employed by Google.
+Scope
+Our publishing criteria apply to both 360º photo spheres as well as flat images.               Images that do not meet these criteria may be rejected from publication on Google               Maps, but will remain visible from your Google Drive or Photos albums.
+Geographic Accuracy
+Images must accurately represent the location where they were taken. Images that are               inaccurately placed on the map are likely to mislead others and will be removed from               Google Maps.
+Photo Spheres
+Photo spheres must wrap 360º without any gaps in the horizon imagery. These images do               not have to extend to the zenith and nadir (top to bottom), but between the top and bottom edges of your photo sphere only minor gaps/holes are acceptable.
+Show moreShow less
+When multiple photo spheres are published to one area, connections between them               may be automatically generated. Whether your connections were created manually or               automatically, we may adjust, remove, or create new connections — and adjust the               position and orientation of your photo spheres — to ensure a realistic, connected               viewing experience.
+When connecting photo spheres, ensure that a clear line of sight is maintained               between both ends, except for open doorways where a clear path is implied. For               clarity, linking photo spheres through walls or over great distances will result in               rejection.
+If you’re appending any form of attribution to the zenith or nadir of your photo               sphere, please note the relevant requirements within the Advertising section below.
+Image Clarity and Quality
+Stylistic adjustments (such as applied filters) are acceptable, provided that these               stylistic changes are minimal and are not appended elements such as borders, text,               collaged images, etc.
+Show moreShow less
+Images that are excessively dark or blurry can make it difficult for others to               understand the environment you’re sharing. The same may be true for excessively               rotated compositions or prominent use of filters. We may reject images on these               bases.
+Images must be of a sufficient resolution. For flat (traditional) photos, both               the width and height must span at least 300 pixels. photo spheres must contain at               least 8 megapixels (a 4,000 pixel by 2,000 pixel resolution or greater).
+Images that show an establishment’s key products (like dishes from a menu,               merchandise, etc.) are acceptable only when they are associated with the               establishment’s Google Maps listing. For clarity, if these images are accurately               placed on the map but not are associated with the correct business, they may be               rejected.
+Computer rendered images may be published if they depict realistic building               structures, natural terrain, or other subject matter that is environmental in nature.
+Advertising and Attribution
+Show moreShow less
+Small, discreet copyright notices (such as a business name or logo) are allowed.               Email addresses and phone numbers cannot be included in your images. Acceptable               attribution must be limited to the bottom 10% of photos and the bottom 36º (bottom               20%) of photo spheres.
+If you find content that you believe violates the Google Terms of Service , the Google Maps/Earth Additional Terms of               Service , or these Geo Imagery and Privacy Policies, please report it to us using               the Report a Problem link.
+Show moreShow less
+In addition to the automatic blurring of faces and license plates in               Google-contributed content, we will blur an entire car, house, or person when               requested.
+If you are unable to resolve a blurring dispute with another contributing user or               if an image features inappropriate content (such as nudity or violence), you can               request that Google remove the image from Google Maps. We'll take a look at the               content and take appropriate action.
+How to Report a Problem
+If you've found an image that you would like further blurred or an image that you               believe contains objectionable content, just follow these steps:
+Click or tap "Report a problem." On our websites, this is located in the               bottom-right of the image window. In our apps, this is accessed from the flag or menu               buttons.
