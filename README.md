@@ -4,7 +4,7 @@
 
 Tests lda package implementation. Dependencies include numpy to take care of sparse matrices and sklearn to build the initial document-term matrix from raw text (handles stopwords exclusion)
 
-###dependencies
+####dependencies
 
 - lda
 - nltk + installation of the stopwords corpus 
@@ -15,11 +15,11 @@ Tests lda package implementation. Dependencies include numpy to take care of spa
 
 Tests LDA package. Dependencies include the tm package to take care of stopwords, numbers and punctuation removing. Watch out for working directory, you have to setwd to the r/ folder to execute the script.
 
-###dependencies
+####dependencies
 
 - lda
 - tm
 
-## corpus files
+##corpus files
 
 Small subset of texts. Any text files should work.
