@@ -1,0 +1,96 @@
+Summary: This article covers specific information regarding the Children's Online Privacy Protection Act (COPPA) as well as steps and guidelines to making sure your game or app adheres to such requirements.
+The Apmetrix SDK allows you to select or disable specific information in your app in order to comply with COPPA guidelines if your game or app is subject to such.
+For more information on what is COPPA and whether or not your game or app is subject to such limited information collection you can read more about it here.
+The primary goal of COPPA is to control the information that is collected from young children online.  While COPPA outlines some specific limitations, they also allow each developer/publisher some control on what they collect, so long as they disclose they are collecting it. 
+For basic COPPA Compliance you will need to pass into our Init function the NO_GEO_LOOKUP, which prevents the device from doing a long/lat lookup, and also prevents it from sending our servers any location data.
+The rest of the following flags are optional based on your level of compliance and disclosure (we recommend you read and understand COPPA before making your decisions).
+NO_GEO_LOOKUP
+NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+NO_UDID
+CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+NO_GEO_LOOKUP
+NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+NO_UDID
+CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+Note 1: The appDataset and appUnifier can be found in the dashboard under Tasks->Administration->Accounts and expanding Datasets, then select your Dataset.
+Note 2: If needing to initialize the session with non-default permissions you can select from any combination of the following options. If more than one option is desired the options can be “OR’d” together using the “|” character:
+ (201) Apmetrix_ERROR_INVALID_ARGUMENTS
+ (202) Apmetrix_ERROR_APP_CONFIG
+Operation could not be completed because there was a device configuration issue (i.e. missing manifest permissions, device parameters disabled, etc.).  Check the log files to see the specific.
+ (203) Apmetrix_ERROR_EVENT_DROPPED
+Operation could not be completed due to a database or server error causing internal buffers to reach their maximum capacity.  Check the log files for information on the specific error.
+ (204 Apmetrix_ERROR_FAILED
+Operation could not be completed because of some other error.  Check the log files for information on the specific error.
+or with Google Cloud Messaging
+String gcmSenderId);
+Apmetrix.NO_GEO_LOOKUP
+Apmetrix.NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+Apmetrix.NO_UDID
+Apmetrix.CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+Note 1: The appDataset and appUnifier can be found in the dashboard under Tasks->Administration->Accounts and expanding Datasets, then select your Dataset.
+Note 2: If needing to initialize the session with non-default permissions you can select from any combination of the following options. If more than one option is desired the options can be “OR’d” together using the “|” character:
+This method returns an "int" value to indicate the status of the function call and will equal one of the following:
+ (201) Apmetrix.ERROR_INVALID_ARGUMENTS
+ (202) Apmetrix.ERROR_APP_CONFIG
+Operation could not be completed because there was a device configuration issue (i.e. missing manifest permissions, device parameters disabled, etc.).  Check the log files to see the specific.
+ (203) Apmetrix.ERROR_EVENT_DROPPED
+Operation could not be completed due to a database or server error causing internal buffers to reach their maximum capacity.  Check the log files for information on the specific error.
+ (204) Apmetrix.ERROR_FAILED
+Operation could not be completed because of some other error.  Check the log files for information on the specific error.
+Apmetrix.NO_GEO_LOOKUP
+Apmetrix.NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+Apmetrix.NO_UDID
+Apmetrix.CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+Note 1: The appDataset and appUnifier can be found in the dashboard under Tasks->Administration->Accounts and expanding Datasets, then select your Dataset.
+Note 2: If needing to initialize the session with non-default permissions you can select from any combination of the following options. If more than one option is desired the options can be “OR’d” together using the “|” character:
+Apmetrix setTracking(Apmetrix.CHILD_SAFE_PERMISSION);
+ This method returns an "int" value to indicate the status of the function call and will equal one of the following:
+Apmetrix.ERROR_INVALID_ARGUMENTS
+Apmetrix.ERROR_APP_CONFIG
+Operation could not be completed because there was a device configuration issue (i.e. missing manifest permissions, device parameters disabled, etc.).  Check the log files to see the specific.
+Apmetrix.ERROR_EVENT_DROPPED
+Operation could not be completed due to a database or server error causing internal buffers to reach their maximum capacity.  Check the log files for information on the specific error.
+Apmetrix.ERROR_FAILED
+Operation could not be completed because of some other error.  Check the log files for information on the specific error.
+wrapper.GetComponent<Apmetrix>().init(10000, "1.0.0", "12345678901234567890123456789012", ApmetrixStatic.CHILD_SAFE);
+Note 1: The appDataset and appUnifier can be found in the dashboard under Tasks->Administration->Accounts and expanding Datasets, then select your Dataset.
+Note 2: If needing to initialize the session with non-default permissions you can select from any combination of the following options. If more than one option is desired the options can be “OR’d” together using the “|” character:
+ApmetrixStatic.NO_GEO_LOOKUP
+ApmetrixStatic.NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+ApmetrixStatic.NO_UDID
+ApmetrixStatic.CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+ 
+(201) ApmetrixStatic.RETURN_STATUS.ERROR_INVALID_ARGUMENTS
+(202) ApmetrixStatic.RETURN_STATUS.ERROR_APP_CONFIG
+Operation could not be completed because there was a device configuration issue (i.e. missing manifest permissions, device parameters disabled, etc.).  Check the log files to see the specific.
+(203) ApmetrixStatic.RETURN_STATUS.ERROR_EVENT_DROPPED
+Operation could not be completed due to a database or server error causing internal buffers to reach their maximum capacity.  Check the log files for information on the specific error.
+(204) ApmetrixStatic.RETURN_STATUS.ERROR_FAILED
+Operation could not be completed because of some other error.  Check the log files for information on the specific error.
+ApmetrixInterface .init(12345, "1.0", "12345678901234567890123456789012",(int)ApmetrixInterface.PERMISSION.NO_UDID);
+Note 1: The appDataset and appUnifier can be found in the dashboard under Tasks->Administration->Accounts and expanding Datasets, then select your Dataset.
+Note 2: If needing to initialize the session with non-default permissions you can select from any combination of the following options.  If more than one option is desired the options can be “OR’d” together using the “|” character:
+ApmetrixInterface.PERMISSION.NO_GEO_LOOKUP
+ApmetrixInterface.PERMISSION.NO_IP_LOOKUP
+Enabling this flag will cause the SDK to NOT collect the devices IP Address and also prevents the server from looking up information based on a users IP address.
+ApmetrixInterface.PERMISSION.NO_UDID
+ApmetrixInterface.PERMISSION.CHILD_SAFE
+Enabling this flag will cause the SDK to NOT collect the following; OpenUDID, IDFA (iOS) Android ID (Android), Latitude/Longitude and IP Address.
+ 
+(201) ApmetrixInterface.RETURN_STATUS.ERROR_INVALID_ARGUMENTS
+(202) ApmetrixInterface.RETURN_STATUS.ERROR_APP_CONFIG
+Operation could not be completed because there was a device configuration issue (i.e. missing manifest permissions, device parameters disabled, etc.).  Check the log files to see the specific.
+(203) ApmetrixInterface.RETURN_STATUS.ERROR_EVENT_DROPPED
+Operation could not be completed due to a database or server error causing internal buffers to reach their maximum capacity.  Check the log files for information on the specific error.
+(204) ApmetrixInterface.RETURN_STATUS.ERROR_FAILED
+Operation could not be completed because of some other error.  Check the log files for information on the specific error.
