@@ -6,7 +6,7 @@ import os
 import csv
 import re
 
-# Opens folder where corpus files are located and creates a csv writer for the output
+# Opens folder where corpus files are located and creates a csv writer
 folder = '../corpus_files/'
 outputfile = csv.writer(open('files.csv', 'w'), delimiter=',', quotechar='"')
 
