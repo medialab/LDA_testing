@@ -1,6 +1,5 @@
 library(tm)
 library(lda)
-library(stringr)
 
 # Just tells you what your working dir is
 wd <- getwd()
