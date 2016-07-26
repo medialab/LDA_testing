@@ -20,6 +20,12 @@ Tests LDA package. Dependencies include the tm package to take care of stopwords
 - lda
 - tm
 
+##scala
+
+This script is to be used with TMT, a tool designed by Stanford NLP group that can be found there : http://nlp.stanford.edu/software/tmt/tmt-0.4/
+
+Watch out, it runs only with java jdk 1.7 and doesn't tell you so...
+
 ##corpus files
 
 Small subset of texts. Any text files should work.
