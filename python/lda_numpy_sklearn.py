@@ -4,6 +4,8 @@
 import os
 import sys
 import lda
+import csv
+import math
 import numpy as np
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
@@ -11,7 +13,11 @@ from sklearn.feature_extraction.text import CountVectorizer
 # takes a folder of text files
 corpus_files = sys.argv[1]
 
-# stopwords from nltk : full corpus of texts contained english, french and german thus the following
+# csv output for the win
+csv_doctopic = open("lda_docXtopic.csv", 'w')
+csv_topicwords = open("lda_topicXwords.csv", 'w')
+
+# stopwords from nltk
 stopwords = stopwords.words('english') + stopwords.words('french') + stopwords.words('german')
 
 # get files path from folder
@@ -20,26 +26,44 @@ for root, dirs, files in os.walk(corpus_files):
 	for file in files:
 		filenames.append(os.path.join(root, file))
 
-# build the document-term matrix using sklearn feature extraction and extracts vocabulary list from it
+# build the document-term matrix using sklearn feature extraction 
 vectorizer = CountVectorizer(input='filename', stop_words=stopwords)
 dtm = vectorizer.fit_transform(filenames)
+# extracts vocabulary from the vector
 vocab = vectorizer.get_feature_names()
 
-# turns document-term matrix and vocab into numpy array because we're mathematicians right ?
+# turns document-term matrix and vocab into numpy array
 dtm = dtm.toarray()
 vocab = np.array(vocab)
 
 # builds an LDA model and fits it to the document-term matrix
-model = lda.LDA(n_topics=20, n_iter=500, random_state=1)
+print "\n######## building the LDA model ########\n"
+model = lda.LDA(n_topics=10, n_iter=100, random_state=1)
 model.fit(dtm)
 
-# print the 20 words most probable for each topic of the model 
+# prints the 20 words most probable for each topic of the model 
+print "\n######## top 20 words for each topic ########\n"
 topic_word = model.topic_word_
 n = 20
 for i, topic_dist in enumerate(topic_word):
     topic_words = np.array(vocab)[np.argsort(topic_dist)][:-(n+1):-1]
-    toprint = u'*Topic {}\n- {}'.format(i, ' '.join(topic_words))
+    toprint = u'- Topic {}\n{}'.format(i, ' '.join(topic_words))
+    csv_row = u'"topic {}";"{}"\n'.format(i, '";"'.join(topic_words))
+    csv_topicwords.write(csv_row)
     print toprint
+
+# prints the top topic for each document of the corpus
+print "\n######## top topic for each document ########\n"
+doc_topic = model.doc_topic_
+for i in range(len(filenames)):
+	csv_row = '"{}";"{}";"{}"\n'.format(filenames[i],
+			doc_topic[i].argmax(),
+			round(doc_topic[i][doc_topic[i].argmax()], 3))
+	print("{} (top topic: {}, value: {})"
+		.format(filenames[i],
+			doc_topic[i].argmax(),
+			round(doc_topic[i][doc_topic[i].argmax()], 3)))
+	csv_doctopic.write(csv_row)
 
 # # print the topic probability of n documents
 # doc_topic = model.doc_topic_

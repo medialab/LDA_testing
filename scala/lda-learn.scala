@@ -48,3 +48,4 @@ val modelPath = file("lda-"+dataset.signature+"-"+params.signature);
 // output folder.  If a partially trained model with the same dataset and
 // parameters exists in that folder, training will be resumed.
 TrainGibbsLDA(params, dataset, output=modelPath, maxIterations=1500);
+
