@@ -22,6 +22,7 @@ DetectorFactory.seed = 0
 start_time = time.time()
 corpus_files = sys.argv[1]
 
+# stopwords list is build for a multilingual french/english/german/spanish corpus
 stops = []
 stops.extend(stopwords.words('english'))
 stops.extend(stopwords.words('french'))
@@ -37,34 +38,41 @@ stops = list(set(stops))
 
 punctuation = re.compile(r'[-+=#/_.?!,":;(){}[]|0-9]')
 
+# iterator over files in the input folder yields a tuple
+# a cleaned up list of tokens (strings) associated with the name of its file
+# language detection drops files which text is not (mostly) in english, german or french
 def corpusIterator():
 	for root, dirs, files in os.walk(corpus_files):
 		for file in files:
 			text = open(os.path.join(root, file), 'r').read().lower().strip()
 			text = re.sub(r'\s+', ' ', text) # consecutive spaces
 			text = re.sub(r'[\n\t\r]', ' ', text) # line breaks
-			text = text.replace('“','').replace('”','') # strange things...
+			text = text.replace('“','').replace('”','') # strange quote chars...
 			text = text.replace('«','').replace('»','') # that are non-unicode
 			text = punctuation.sub("", text)
-			# try:
-			# 	lang = detect(text.decode('utf-8'))
-			# except:
-			# 	lang = 'en'
-			# if lang == 'de' or lang == 'en' or lang == 'fr':
+			try:
+				lang = detect(text.decode('utf-8'))
+			except:
+				lang = 'en'
+			if lang == 'de' or lang == 'en' or lang == 'fr':
 			file_name = os.path.join(root, file)
 			text_array = text.split()
 			yield (file_name, text_array)
 
+# builds the dictionary of all terms used in all documents
+# drops stopwords, single letters and words used only once
 def buildDictionary():
 	dictionary = corpora.Dictionary(document[1] for document in corpusIterator())
 	stop_ids = [dictionary.token2id[stopword] for stopword in stops if stopword in dictionary.token2id]
-	letter_ids = [dictionary.token2id[letter] for letter in string.ascii_lowercase if letter in dictionary.token2id]
+	# letter_ids = [dictionary.token2id[letter] for letter in string.ascii_lowercase if letter in dictionary.token2id]
 	once_ids = [tokenid for tokenid, docfreq in iteritems(dictionary.dfs) if docfreq == 1]
 	dictionary.filter_tokens(stop_ids + once_ids )#+ letter_ids)
 	# dictionary.filter_extremes(no_below=3, keep_n=1000000)
 	dictionary.compactify()
 	return dictionary
 
+# this class allows not to load all of the corpus in ram
+# it uses the corpus iterator and the dictionary to yield one vector (one document) at a time
 class corpusLove(object):
 	def __iter__(self):
 		current_id = 0
@@ -74,8 +82,9 @@ class corpusLove(object):
 			current_id += 1
 		pickle.dump(doc_ids, open("results/doc_ids.p", 'wb'))
 
-def exportTopics(model, name):
-	topicword = open('results/topicXwords_' + name + '.csv', 'w')
+# exports the list of topics with 50 associated words from the model to a csv file
+def exportTopics(model, filename):
+	topicword = open('results/topicXwords_' + filename + '.csv', 'w')
 	for elem in model.print_topics(num_topics=-1, num_words=50):
 		topic = elem[0]
 		words = elem[1].split(' + ')
@@ -85,8 +94,9 @@ def exportTopics(model, name):
 		line = line[:-2] + '\n'
 		topicword.write(line.encode('utf-8'))
 
-def exportDocuments(model, name):
-	doctopic = open('results/docXtopic_' + name + '.csv', 'w')
+# exports the list of documents with their associated topics from the model to a csv file
+def exportDocuments(model, filename):
+	doctopic = open('results/docXtopic_' + filename + '.csv', 'w')
 	for doc in doc_ids:
 		line = '"' + doc_ids[doc] + '","' + doc_ids[doc].split('/')[2][:-4] + '","'
 		topics = ""
@@ -95,6 +105,7 @@ def exportDocuments(model, name):
 		line += topics[:-2] + '\n'
 		doctopic.write(line)
 
+# if a full model (dictionary + corpus + lda model) exists on disk it'll be loaded instead of re-run
 if (os.path.exists("results/dictionary.dict") and os.path.exists("results/corpus.lda-c") and os.path.exists("results/model.lda")):
 	dictionary = corpora.Dictionary.load('results/dictionary.dict')
 	corpus = corpora.BleiCorpus('results/corpus.lda-c')
@@ -119,6 +130,7 @@ else:
 	print "%s minutes" % round((corpus_time - dict_time)/60, 2)
 
 	print "tuning the model"
+	# this line contains the LDA parameters as explicit parameters of the tuning function
 	model = models.LdaModel(corpus, id2word=dictionary, num_topics=60, iterations=500, eval_every=10, alpha='auto')
 	model.save('results/model.lda')
 	model_time = time.time()
@@ -132,18 +144,6 @@ print "doing all of this"
 print "%s seconds" % round((time.time() - start_time), 2)
 print "%s minutes" % round((time.time() - start_time)/60, 2)
 
-# print '\n'
-# print doc_ids[200]
-# text = open(doc_ids[200], 'r').read().lower().strip()
-# text = re.sub(r'\s+', ' ', text) # consecutive spaces
-# text = re.sub(r'[\n\t\r]', ' ', text) # line breaks
-# text = text.replace('“','').replace('”','') # strange things...
-# text = text.replace('«','').replace('»','') # that are non-unicode
-# text = punctuation.sub("", text)
-# text = text.split()
-# # print corpus[200]
-# print model[corpus[200]]
-# print model[dictionary.doc2bow(text)]
 
 
 
