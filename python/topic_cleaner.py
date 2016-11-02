@@ -16,79 +16,85 @@ def pairwise(iterable):
 # documents : input should be the document list output by lda_gensim.py
 documents = csv.reader(open(sys.argv[1], 'r'))
 
-# output will be two lists of documents similar to the output of lda_gensim.py
-agregated = csv.writer(open('topics_agregated.csv', 'w'))
-named = csv.writer(open('topics_named.csv', 'w'))
+# output is a list of documents with a score by column for every new topic from the dictionary
+output = csv.writer(open('topics_cleaned.csv', 'w'))
 
 # agregation and renaming are based on the following dictionary
-# keys = old topic number / value = (new topic name, new topic number)
-# number of new topic names and new topic numbers should be consistent
-max_topics = {
-	'1' : ('wouf', '1'),
-	'2' : ('miaou', '2'),
-	'4' : ('miaou', '2'),
-	'5' : ('wouf', '1'),
-	'6' : ('wouf', '1'),
-	'7' : ('miaou', '2'),
-	'8' : ('baw', '3'),
-	'9' : ('miaou', '2'),
-	'10' : ('miaou', '2'),
-	'11' : ('miaou', '2'),
-	'12' : ('wouf', '1'),
-	'13' : ('baw', '3'),
-	'15' : ('wouf', '1'),
-	'16' : ('wouf', '1'),
-	'17' : ('miaou', '2'),
-	'19' : ('baw', '3'),
-	'20' : ('baw', '3'),
-	'21' : ('atchi', '4'),
-	'22' : ('atchi', '4'),
-	'23' : ('wouf', '1'),
-	'24' : ('wouf', '1'),
-	'25' : ('atchi', '4'),
-	'26' : ('wouf', '1'),
-	'27' : ('atchi', '4'),
-	'28' : ('atchi', '4'),
-	'29' : ('atchi', '4'),
-	'30' : ('baw', '3'),
-	'31' : ('baw', '3'),
-	'32' : ('baw', '3')
+# keys = old topic number / value = new topic name
+new_topics = {
+	'1' : 'Terms of use',
+	'2' : 'Personal records',
+	'3' : 'Cloud  & server security',
+	'4' : 'Card and ID fraud',
+	'5' : 'Health',
+	'6' : 'Airspace Security',
+	'7' : 'Cloud  & server security',
+	'10' : 'Social Media',
+	'11' : 'Car and transport',
+	'12' : 'Education',
+	'13' : 'Research IT',
+	'14' : 'Web and Computer security',
+	'16' : 'Hacking',
+	'17' : 'Business Tech and new media',
+	'20' : 'Mobile OS and App',
+	'21' : 'Freedom of citizens',
+	'22' : 'Cyberdefense',
+	'23' : 'Business Tech and new media',
+	'24' : 'Surveillance FR',
+	'25' : 'Data transmission',
+	'26' : 'Cybersecurity',
+	'27' : 'Data Regulation FR',
+	'28' : 'Wearable & IOT',
+	'29' : 'Cybersecurity',
+	'30' : 'Crypto & Access',
+	'33' : 'Telecom Operators FR',
+	'34' : 'Cyberdefense',
+	'35' : 'Data transmission',
+	'36' : 'Data Regulation US',
+	'37' : 'Communication traces',
+	'39' : 'Web and Computer security',
+	'41' : 'Surveillance FR',
+	'42' : 'Copyright',
+	'44' : 'Crypto & Access',
+	'46' : 'Surveillance US',
+	'47' : 'Surveillance US',
+	'48' : 'Surveillance FR',
+	'49' : 'Bitcoin',
+	'50' : 'Mobile OS and App',
+	'51' : 'Surveillance FR',
+	'52' : 'Cookies and tracking',
+	'53' : 'Data Regulation EU',
+	'54' : 'Big data & Analyitcs',
+	'56' : 'Surveillance US',
+	'57' : 'Consumer data',
+	'58' : 'Cloud  & server security'
 }
 
+topics_names = sorted(list(set(new_topics.values())))
+headers = ["webentity_id", "page_id"] + topics_names
+output.writerow(headers)
+
 for document in documents:
-	path = document[0]
-	webid = document[1]
+	webentity_id = document[0].split('/')[1]
+	page_id = document[1]
 	topics = filter(None, document[2:])
 	
-	# creates a dictionary of agregated topics // NB : scores are accumulated
-	topics_agregated_dict = defaultdict(float)
+	# creates a dictionary of agregated topics - NB : scores are accumulated
+	topics_agregated = defaultdict(float)
 	for topic, score in pairwise(topics):
-		if topic in max_topics.keys():
-			topics_agregated_dict[max_topics[topic][1]] += float(score)
+		if topic in new_topics:
+			topics_agregated[new_topics[topic]] += float(score)
 
-	# turns the dictionary into 2 different lists
-	# 1 : topics agregated with scores accumulated
-	# 2 : topics renamed and filtered (topics with score beneath 0.15 are discarded)
-	topics_agregated_array = []
-	topics_named_array = []
-	for topic in topics_agregated_dict.keys():
-		topics_agregated_array.append((topic, topics_agregated_dict[topic]))
-		if topics_agregated_dict[topic] > 0.15:
-			topics_named_array.append((max_topics[topic][0], topics_agregated_dict[topic]))
+	# turns the dictionary into a list of score percentages
+	score_array = []
+	for topic in topics_names:
+		if topic in topics_agregated:
+			score_array.append(round(topics_agregated[topic], 4) * 100)
+		else:
+			score_array.append(0.0)
 
-	# keeps only the top 3 topics with higher scores in the list n°2 (named topics)
-	if len(topics_named_array) > 0:
-		topics_named_array = sorted(topics_named_array, key=lambda x: x[1], reverse=True)
-		topics_named_array = topics_named_array[:3]
-
-	# builds csv output lines
-	line_agregated = [path, webid]
-	line_named = [path, webid]
-	line_agregated.extend([i for topic_tuple in topics_agregated_array for i in topic_tuple])
-	line_named.extend([i for topic_tuple in topics_named_array for i in topic_tuple])
-
-	# writes csv output lines to files
-	agregated.writerow(line_agregated)
-	named.writerow(line_named)
+	# builds csv output line and writes it to output file
+	output_line = [webentity_id, page_id] + score_array
+	output.writerow(output_line)
 
 
